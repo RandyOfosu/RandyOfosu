@@ -7,7 +7,7 @@
 - 💬 Ask me about basic web development stuff.
 - 📫 How to reach me: <a href="https://keybase.io/randysemicolon">keybase</a> is the best way.
 - 😄 Pronouns: I am a male.
-- ⚡ Fun fact: <a href="https://www.google.com/search?client=firefox-b-d&q=fun+fact">...</a>
+- ⚡ Fun fact: <a href="https://www.google.com/search?client=firefox-b-d&q=fun+fact" target="_blank">...</a>
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
