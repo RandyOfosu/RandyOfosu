@@ -10,7 +10,7 @@ Mijn naam is <a href="https://linkedin.com/in/randyofosu" title="My Linked-In Pa
 - 🤔 Tot nu toe heb ik niet echt hulp nodig. Wat ik nog niet weet zoek ik op het web.
 - 💬 Je kan me vragen stellen over basis concepten van web development.
 - 📫 Hier kan je me bereiken: Op <a href="https://keybase.io/randysemicolon">keybase</a> krijg je het snelste antwoord.
-- ⚡ Fun fact: <a href="https://www.google.com/search?client=firefox-b-d&q=fun+fact" target="_blank">...</a>
+- ⚡ Fun fact: Klik <a href="https://www.google.com/search?client=firefox-b-d&q=fun+fact" target="_blank">hier</a> voor je funfact
 
 DISCLAIMER: *Dit is altijd een accurate representatie van wat de stand van zaken zijn voor mij.*
 
@@ -26,7 +26,7 @@ I'm <a href="https://linkedin.com/in/randyofosu" title="My Linked-In Page" targe
 - 🤔 I’m looking for help with nothing really.
 - 💬 Ask me about basic web development stuff.
 - 📫 How to reach me: <a href="https://keybase.io/randysemicolon">keybase</a> is the best way.
-- ⚡ Fun fact: <a href="https://www.google.com/search?client=firefox-b-d&q=fun+fact" target="_blank">...</a>
+- ⚡ Fun fact: <a href="https://www.google.com/search?client=firefox-b-d&q=fun+fact" target="_blank">here</a> is your daily funfact
  
 DISCLAIMER: *This will always be an accurate representation of what I am up to.*
 
