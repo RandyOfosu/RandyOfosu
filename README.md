@@ -13,8 +13,8 @@ Mijn naam is <a href="https://linkedin.com/in/randyofosu" title="My Linked-In Pa
 - ⚡ Fun fact: <a href="https://www.google.com/search?client=firefox-b-d&q=fun+fact" target="_blank">...</a>
 
 DISCLAIMER: *Dit is altijd een accurate representatie van wat de stand van zaken zijn voor mij.*
+---
 
-** **
 ### Hi there 👋 (international)
 
 I'm <a href="https://linkedin.com/in/randyofosu" title="My Linked-In Page" target="_blank">Randy Ofosu</a> and I'm a Student Software Engineer, born and raised from <a href="https://en.wikipedia.org/wiki/Amsterdam" title="Wikipage: Amsterdam, just for some basic knowledge" target="_blank">Amsterdam</a>.
@@ -29,7 +29,8 @@ I'm <a href="https://linkedin.com/in/randyofosu" title="My Linked-In Page" targe
 - ⚡ Fun fact: <a href="https://www.google.com/search?client=firefox-b-d&q=fun+fact" target="_blank">...</a>
  
 DISCLAIMER: *This will always be an accurate representation of what I am up to.*
- 
+---
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
