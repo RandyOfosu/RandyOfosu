@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my blog <a href="https://goldenconvos.com" target="_blank">GoldenConvos.com</a>.
 - 🌱 I’m currently learning web development.
-- 👯 I’m looking to collaborate on projects that involve Blockchain technologie, API's or 3d printers.
+- 👯 I’m looking to collaborate on projects that involve Blockchain technologie, IoT or 3d printers.
 - 🤔 I’m looking for help with nothing really.
 - 💬 Ask me about basic web development stuff.
 - 📫 How to reach me: <a href="https://keybase.io/randysemicolon">keybase</a> is the best way.
