@@ -5,7 +5,7 @@ Mijn naam is <a href="https://linkedin.com/in/randyofosu" title="My Linked-In Pa
 - 🔭 Momenteel werk ik aan mijn blog <a href="https://goldenconvos.com" target="_blank">GoldenConvos.com</a>.
 - 🌱 Op dit moment duik ik wat dieper in web development.
 - 👯 Graag zou ik willen werken aan projecten die betrekking hebben met IoT of 3d printers.
-- 🤔 Begin februari 2021 wil ik graag 300uren stage lopen.
+- 🤔 Begin februari 2021 wil ik graag 300 uren stage lopen.
 - 💬 Je kan me vragen stellen over basis concepten van web development.
 - 📫 Hier kan je me bereiken: Op <a href="https://keybase.io/randysemicolon">keybase</a> krijg je het snelste antwoord.
 - ⚡ Fun fact: Klik <a href="https://www.google.com/search?client=firefox-b-d&q=fun+fact" target="_blank">hier</a> voor je funfact
