@@ -2,7 +2,7 @@
 
 Mijn naam is <a href="https://linkedin.com/in/randyofosu" title="My Linked-In Page" target="_blank">Randy Ofosu</a> en ik ben Software Engineer in opleiding uit onze kikkerlandje.
 
-- 🔭 Momenteel werk ik aan mijn blog <a href="https://goldenconvos.com" target="_blank">GoldenConvos.com</a>.
+- 🔭 Momenteel werk ik aan mijn schoolopdrachten.
 - 🌱 Op dit moment duik ik wat dieper in web development.
 - 👯 Graag zou ik willen werken aan projecten die betrekking hebben met IoT of 3d printers.
 - 🤔 Begin februari 2021 wil ik graag 300 uren stage lopen.
@@ -18,7 +18,7 @@ DISCLAIMER: *Dit is altijd een accurate representatie van wat de stand van zaken
 
 I'm <a href="https://linkedin.com/in/randyofosu" title="My Linked-In Page" target="_blank">Randy Ofosu</a> and I'm a Student Software Engineer in training, born and raised from <a href="https://en.wikipedia.org/wiki/Amsterdam" title="Wikipage: Amsterdam, just for some basic knowledge" target="_blank">Amsterdam</a>.
 
-- 🔭 I’m currently working on my blog <a href="https://goldenconvos.com" target="_blank">GoldenConvos.com</a>.
+- 🔭 I’m currently working on my school assignments.
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on projects that involve IoT or 3d printers.
 - 🤔 I looking around for a 300-hour internship, starting February.
