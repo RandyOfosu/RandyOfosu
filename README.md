@@ -2,7 +2,7 @@
 
 Mijn naam is <a href="https://linkedin.com/in/randyofosu" title="My Linked-In Page" target="_blank">Randy Ofosu</a> en ik ben een Integratiespecialist.
 
-- 🔭 Ik werk bij het <a href="https://www.amsterdamumc.org/nl/over/amsterdam-umc.htm" title="Amsterdam UMC" target="_blank">hier</a>.
+- 🔭 Ik werk bij het <a href="https://www.amsterdamumc.org/nl/over/amsterdam-umc.htm" title="Amsterdam UMC" target="_blank">Amsterdam UMC</a>.
 - 🌱 Op dit moment duik ik wat dieper in technische infrastructuren.
 - 👯 Hiervoor werk ik aan hobby projecten die ik lokaal beheer.
 - 🤔 In uiterlijk 2028 zou ik graag aan de slag willen gaan als Cloud Engineer.
